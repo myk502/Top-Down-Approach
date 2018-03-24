@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<meta charset="UTF_8" />
+
+<html>
+<!-- This is a comment -->
+
+<head>
+    <title>This is a test title</title>
+
+    <body>
+        <p>
+            <ul>
+                <li>This is line1</li>
+                <li>This is line2</li>
+                <ul>
+                    <li>This is nested list1</li>
+                    <li>This is nested list2</li>
+                </ul>
+            </ul>
+            <del>This sentence is deleted</del>
+            <small> These words are small!</small>
+            <br/>
+            <ins> This sentence is inserted</ins>
+            <br>
+            <code>Hello World!</code>
+            <section>
+                <pre>
+                if(x > 0)
+                    printf("Hello World!\n");
+                These codes are just for fun.
+                
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                These codes are just for fun.
+                "
+            </pre>
+            </section>
+            <aside>
+                This is an aside
+            </aside>
+        </p>
+
+        <br>
+        <table>
+            <caption> header</caption>
+            <tr>
+                <th>知识点</th>
+                <th>详细内容</th>
+                <th>小时</th>
+            </tr>
+            <tr>
+                <td>This is row 1</td>
+            </tr>
+            <tr>
+                <td>This is row 2</td>
+            </tr>
+        </table>
+        <form action="/course/reg.do" method="POST" enctype="multipart/form-data">
+            <p>姓名：<input type="text" /></p>
+            <p>时间：<input type="time" /></p>
+            <p>简介:<textarea></textarea></p>
+            <p>简历附件:<input type="file" /></p>
+            <p><input type="submit" value="报名提交" /></p>
+        </form>
+    </body>
+</head>
+
+</html>
