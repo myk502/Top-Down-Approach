@@ -22,7 +22,7 @@ clientSocket.sendall('auth login\r\n')
 receiveFromServer()
 clientSocket.sendall('ZmFuZXNlbXlrQDE2My5jb20=\r\n')
 receiveFromServer()
-clientSocket.sendall('balabalabalba\r\n')#The base64 code of your password
+clientSocket.sendall('BalaBala\r\n')#The base64 code of your password
 receiveFromServer()
 # Send mail from command
 clientSocket.sendall('mail from: <fanesemyk@163.com>\r\n')
