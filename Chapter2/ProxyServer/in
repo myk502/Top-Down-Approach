@@ -1,0 +1,14 @@
+    GET /3e/waside.html HTTP/1.1\r\n
+    Host: csapp.cs.cmu.edu\r\n
+    Connection: keep-alive\r\n
+    Upgrade-Insecure-Requests: 1\r\n
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36\r\n
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\n
+    Referer: http://csapp.cs.cmu.edu/\r\n
+    Accept-Encoding: gzip, deflate\r\n
+    Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+    Cookie: __utmz=80242693.1511167414.4.2.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __utmc=80242693; __utma=80242693.1579925575.1500312765.1521951498.1521954855.60; __utmt=1; __utmb=80242693.1.10.1521954855\r\n
+    \r\n
+    [Full request URI: http://csapp.cs.cmu.edu/3e/waside.html]
+    [HTTP request 1/1]
+    [Response in frame: 392]

@@ -1,0 +1,178 @@
+HTTP/1.1 200 OK
+Date: Sun, 25 Mar 2018 11:52:30 GMT
+Server: Apache/2.2.17 (Unix) Resin/4.0.16
+Cache-Control: private
+Content-Length: 6486
+Set-Cookie: JSESSIONID=aaa_iZak-4xzgakClaDjw; path=/
+Content-Type: text/html; charset=gb2312
+Connection: close
+X-Pad: avoid browser bug
+Set-Cookie: BIGipServerpool_portal=173058240.20480.0000; path=/
+
+
+<html>
+<head>
+<title>华中师范大学信息门户</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"><style type="text/css">
+<!--
+body,td,th {
+	font-size: 12px;
+}
+a:link {
+	text-decoration: none;
+	color: #003366;
+} 
+a:visited {
+	text-decoration: none;
+	color: #003366;
+} 
+a:hover {
+	text-decoration: none;
+	color: #3366CC;
+} 
+a:active {
+	text-decoration: none;
+}
+INPUT.smallInput {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 9pt;
+	COLOR: #000000;
+	LINE-HEIGHT: normal;
+	FONT-STYLE: normal;
+	HEIGHT: 20px;
+	FONT-VARIANT: normal;
+solid: 
+; 	width: 20ex;
+}
+.STYLE3 {color: #006666}
+.STYLE5 {
+	font-family: "华文新魏";
+	font-size: 18px;
+}
+.STYLE7 {
+	font-family: "楷体_GB2312";
+	font-size: 14px;
+}
+.STYLE8 {color: #DD0000}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+</head>
+<body	topMargin=0>
+<table width="800" border="0" align="center" cellspacing="0">
+  <tr>
+    <td bordercolor="#EEEEEEE" class="STYLE2">
+<table><tr>
+        <td align="center"  width=795 background=image/22.jpg height=116><PARAM value="transparent" name="wmode"><EMBED pluginspage=http://www.macromedia.com/go/getflashplayer src=image/top.swf width=795 height=116 type=application/x-shockwave-flash wmode="transparent" quality="high"></EMBED>
+      </td></tr></table>
+	    <table width="800" border="0">
+          <tr>
+            <td  colspan="3" bordercolor="#000000" bgcolor="e0f3f7" border-width: 1px>
+			&nbsp;<a href="javascript:;" title="设置华师信息门户为浏览器主页" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://portal.ccnu.edu.cn');">设为主页</a>				            
+			| <a href="http://www.ccnu.edu.cn" target="_blank" title="华中师范大学首页">华中师范大学</a>
+			| <a href="http://nisc.ccnu.edu.cn" target="_blank" title="华中师范大学信息化办公室">信息化办公室</a>						</td>
+          </tr>
+		   <tr>
+		   <td width="600" height="397" colspan="1" bgcolor="#f4fdff"><div align="center"><img src="images/theme.jpg" width="590" height="397"></div></td>
+		    <td height="397"  colspan="1"><table width="200" height="231" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="48" background="images/bg2.gif"><div align="right" class="STYLE4">
+                  <div align="center" class="STYLE7"><br>
+                      
+				          
+				  2018年03月25日<br>
+                 第<span class="STYLE8">7</span>周   星期日   
+				</div></td>
+              <tr>
+                <td><table width="200" height="178" background="images/vline1.gif" topMargin=0>
+                  <tr>
+                    <td height="1" background="images/line.gif"></td>
+                  </tr>
+                  <tr bgcolor="#f4fdff">
+                    <td bgcolor="#e0f3f7" ><div align="left" class="STYLE5">
+                        <div align="center"><strong><br>
+                          登录信息门户</strong></div>
+                    </div>
+                        <form id="form1" name="form1" method="post" action="loginAction.do">
+                          <p align="center">帐号
+                            <input name="userName" class="smallInput"  size="20" />
+                          </p>
+                          <p align="center">密码
+                            <input name="userPass" type="password" class="smallInput"  size="20" />
+                          </p>
+                          <div align="center">
+                            <input name="login" type="submit" id="login"  value="登陆" />
+                            &nbsp;
+                            <input name="Submit2" type="button" id="reset" value="忘记密码？" onClick="window.open
+('http://218.199.196.76:8080/resetpass/check.jsf');"/>
+                          </div>
+                        </form></td>
+                  </tr>
+                  <tr>
+                    <td height="1"  background="images/line.gif"></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+		      <table width="200" height="166"  border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><img src="images/weather.gif" width="200" height="45" /></td>
+                </tr>
+                <tr bordercolor="#f4fdff">
+                  <td><table width="200" height="124" border="0" background="images/vline2.gif">
+                      <tbody>
+                        <tr>
+                          <td height="1" colspan="3" background="images/line.gif"></td>
+                        </tr>
+                        <tr bgcolor="#CCCCCC">
+                          <!--<td align="center">--</td>
+                          <td align="center">--</td>
+                          <td align="center">--</td>-->
+                          <td align="center">昨天</td>
+                          <td align="center">今天</td>
+                          <td align="center">明天</td>
+                        </tr>
+                        <tr>
+                          <td height="1" colspan="3" background="images/line.gif"></td>
+                        </tr>
+                        <tr bgcolor="#e0f3f7">
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                        </tr>
+                        <tr bgcolor="#e0f3f7">
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                        </tr>
+                        <tr bgcolor="#e0f3f7">
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                          <td align="center">--</td>
+                        </tr>
+                        <tr>
+                          <td  height="1" colspan="3"  background="images/line.gif"></td>
+                        </tr>
+                      </tbody>
+                  </table></td>
+                </tr>
+             </table></td>
+	      </tr>
+    </table></td>
+  </tr>
+  <tr>   <td width="795"  align="middle" background="images/di.jpg">
+    <div align="center" class="STYLE3"><SPAN class=t><br>
+        版权所有：华中师范大学 技术支持：信息化办公室<br>
+    </SPAN>
+  </div></td>
+  </tr>
+</table>
+</body>
+</html>

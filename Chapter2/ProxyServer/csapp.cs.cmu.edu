@@ -1,0 +1,164 @@
+HTTP/1.1 200 OK
+Date: Sun, 25 Mar 2018 11:27:38 GMT
+Server: Apache/2.2.15 (Red Hat)
+Last-Modified: Thu, 02 Apr 2015 17:13:46 GMT
+ETag: "8440710-1882-512c0f4584680"
+Accept-Ranges: bytes
+Content-Length: 6274
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>CS:APP3e, Bryant and O'Hallaron</title>
+<link href="http://csapp.cs.cmu.edu/3e/css/csapp.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- Page-independent header  -->
+<div id="cover_box">
+<a href="http://csapp.cs.cmu.edu/3e/home.html">
+<img src="http://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg" width=70>
+</a>
+</div>
+<div id="title_box">
+<p class="title">Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)</p>
+<p class="author"> <a href="http://www.cs.cmu.edu/~bryant">Randal E. Bryant</a> and <a href="http://www.cs.cmu.edu/~droh">David R. O'Hallaron</a>, Carnegie Mellon University</p>
+<p>
+<a href="http://csapp.cs.cmu.edu/2e/home.html">Legacy site for the second edition</a>
+</div>
+
+<!-- Page-dependent links go in the horizontal navigation bar -->
+<div id="top_nav_box">
+<ul>
+<li><a href="mailto:randy.bryant@cs.cmu.edu, droh@cs.cmu.edu">Contact us</a>
+<li><a href="mailto:matt.goldstein@pearson.com">Request desk copy</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/changes3e.html">Changes from 2/E</a>
+<li><a href="http://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X">Amazon.com</a>
+<li><a href="http://www.pearsonhighered.com/educator/product/Computer-Systems-A-Programmers-Perspective-3E/9780134092669.page">Pearson</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/about.html">About</a>
+</ul>
+</div>
+
+<!-- Page-independent links go in the vertical navigation bar -->
+<div id="left_nav_box">
+<ul>
+<li><a href="http://csapp.cs.cmu.edu/3e/home.html">Home</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/waside.html">Web Asides</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/students.html">Student Site</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/instructors.html">Instructor Site</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/pieces/preface3e.pdf">TOC and Preface</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/adoptions.html">Adoptions</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/errata.html">Errata</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/papers.html">Papers</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/curriculum.html">Curriculum</a>
+<li><a href="http://csapp.cs.cmu.edu/3e/courses.html">Courses</a>
+</ul>
+</div>
+
+<div id="content_box">
+<!-- ----------------- -->
+<!-- CONTENT GOES HERE -->
+<!-- ----------------- -->
+
+<p>
+<b><i>Overview.</i></b> This book (CS:APP3e) is the third edition of a
+book that stems from the introductory computer systems course we
+developed at Carnegie Mellon University, starting in the Fall of 1998,
+called "Introduction to Computer Systems" (ICS). The presentation is
+based on the following principles, which aim to help the students
+become better programmers and to help prepare them for upper-level
+systems courses:
+<ul>
+
+<li>
+Students should be introduced to computer systems from the perspective
+of a programmer, rather from the more traditional perspective of a
+system implementer.
+<a href="http://csapp.cs.cmu.edu/3e/perspective.html">What does this mean?</a>
+
+<li>
+Students should get a view of the complete system, comprising the
+hardware, operating system, compiler, and network.
+
+<li>
+Students learn best by developing and evaluating real programs that
+run on real machines.
+</ul>
+ 
+We cover data representations, machine level representations of C
+programs, processor architecture, program optimizations, the memory
+hierarchy, linking, exceptional control flow (exceptions, interrupts,
+processes, and Unix signals), virtual memory
+and memory management, system-level I/O, basic network programming,
+and concurrent programming. These concepts are supported by
+series of fun and hands-on lab assignments.  See the manuscript 
+<a href="http://csapp.cs.cmu.edu/3e/pieces/preface3e.pdf">Preface</a> for more details.
+
+<p>
+<b><i>Web asides.</i></b> We had so much material for this book that we couldn't fit it all in!
+Instead, we have created electronic documents containing useful
+additional material, which we call
+<a href="http://csapp.cs.cmu.edu/3e/waside.html"><em>Web asides</em></a>.
+Check it out.  You'll find interesting theoretical and practical
+information that goes beyond the scope of the book.
+
+<p>
+<b><i>Course Materials for Instructors and Students.</i></b>
+The <a href="http://csapp.cs.cmu.edu/3e/students.html"><i>Student Site</i></a> contains
+additional material for the students. 
+The <a href="http://csapp.cs.cmu.edu/3e/instructors.html"><i>Instructor Site</i></a>
+contains a complete turnkey solution for teaching the course.  
+
+
+<!--  Headline animator version net used
+<hline>
+<h2>Feed from our <a href="http:csappbook.blogspot.com">Blog</a></h2>
+<p style="margin-top:10px; margin-bottom:0; padding-bottom:0;
+text-align:center; line-height:0"><a target="_blank"
+href="http://csappbook.blogspot.com"><img
+src="http://feeds.feedburner.com/csappbook.1.gif" alt="CS:APP Blog"
+style="border:0"></a></p><p style="margin-top:5px; padding-top:0;
+font-size:x-small; text-align:center"><a
+href="http://feedburner.google.com/fb/a/headlineanimator/install?id=6afea66cnkp27b7v9a3fi0jquk&amp;w=1"
+onclick="window.open(this.href, 'haHowto',
+'width=520,height=600,toolbar=no,address=no,resizable=yes,scrollbars');
+return false" target="_blank"></p>
+-->
+
+<!-- ----------- -->
+<!-- END CONTENT -->
+<!-- ----------- -->
+<p class="footer">Copyright &copy; 2015, 
+Randal E. Bryant and David R. O'Hallaron</p>
+</div> <!--content_box-->
+
+<!-- Feed sidebar -->
+<div id=sidebar>
+<h2 class="">Recent articles from the <a href="http://csappbook.blogspot.com">CS:APP blog</a></h2>
+<script
+src="http://feeds.feedburner.com/csapp?format=sigpro&
+nItems=15&
+displayExcerpts=true&
+excerptFormat=plain&
+excerptLength=25&
+displayDate=true&
+dateLocation=below"
+type="text/javascript" ></script>
+</div> <!-- sidebar -->
+
+<! Google Analytics tracking code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5405607-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

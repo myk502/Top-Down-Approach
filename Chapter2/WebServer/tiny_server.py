@@ -3,11 +3,12 @@ serverSocket = socket(AF_INET, SOCK_STREAM)
 try:
 	serverSocket.bind(('', 6789))#attach port number 6789 to welcome socket
 	serverSocket.listen(1)
-	if True:
+	while True:
 		print "The sever is ready to receive"
 		connectionSocket, addr = serverSocket.accept()
 		try:
 			message = connectionSocket.recv(4096)
+			print message
 			filename = message.split()[1]
 			f = open(filename[1:])
 			outputdata = f.read() #Read text form the html file
